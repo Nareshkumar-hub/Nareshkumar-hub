@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Frontend+%2F+MERN+Stack+Developer;AI+%7C+GIS+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+%5BNareshkumar%5D+%F0%9F%91%8B;Frontend+%2F+MERN+Stack+Developer;AI+%7C+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 **`BE Computer Science & Engineering — Class of 2026`**
 
